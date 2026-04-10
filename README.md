@@ -46,3 +46,6 @@ docker compose down -v
 ### Notes
 - The database runs in Docker (Postgres). The backend connects using the Compose service hostname `db`.
 - Current stock is derived from the movement ledger; the backend rejects movements that would drive stock negative.
+
+### Walkthrough Video
+https://github.com/mdadnankh/Inventory-tracking-app/raw/main/better-software-assignment-walkthrough-MdAdnanKhan.mov

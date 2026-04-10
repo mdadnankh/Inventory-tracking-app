@@ -48,4 +48,4 @@ docker compose down -v
 - Current stock is derived from the movement ledger; the backend rejects movements that would drive stock negative.
 
 ### Walkthrough Video
-<video src="https://github.com/mdadnankh/Inventory-tracking-app/blob/main/better-software-assignment-walkthrough-MdAdnanKhan.mov?raw=true" width="100%" controls></video>
+**[👉 Click here to watch the full 10-15 minute Walkthrough Video natively on GitHub](https://github.com/mdadnankh/Inventory-tracking-app/blob/main/better-software-assignment-walkthrough-MdAdnanKhan.mov)**
